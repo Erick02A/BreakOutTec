@@ -1,6 +1,6 @@
 import Objets.Window;
 import Objets.connection;
-public class main
+public class Main
 {
     static Thread hilo = new connection();
     static Servidor servidor;
